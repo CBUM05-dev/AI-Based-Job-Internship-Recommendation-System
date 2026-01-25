@@ -1,0 +1,4 @@
+user_id,skills,level,mode,domain
+1,"python,ml",beginner,remote,Machine Learning
+2,"sql,excel",beginner,onsite,Data Analysis
+3,"python,flask",junior,remote,Software Engineering

@@ -1,0 +1,5 @@
+job_id,title,skills,level,mode,domain
+1,ML Intern,"python,ml",beginner,remote,Machine Learning
+2,Data Analyst,"excel,sql",beginner,onsite,Data Analysis
+3,Backend Intern,"python,flask",junior,remote,Software Engineering
+4,AI Intern,"python,ml,deep learning",junior,remote,AI
