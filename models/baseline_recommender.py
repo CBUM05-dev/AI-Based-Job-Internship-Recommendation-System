@@ -7,25 +7,25 @@ from utils.logger import get_logger
 logger = get_logger("BaselineRecommender")
 
 class BaseLineRecommender:
-    def __init__(self , job_features , job_metadata):
+    def __init__(self , job_embeddings , job_metadata):
         """
-        job_features: DataFrame of job vectors
+        job_embeddings: np.ndarray shape (N, 384) of job embeddings
         job_metadata: original jobs dataframe (for titles, ids, etc.)
         """
-        self.job_features = job_features
-        self.job_metadata = job_metadata
+        self.job_embeddings = job_embeddings
+        self.job_metadata = job_metadata.reset_index(drop=True)
         logger.info("BaselineRecommender initialized.")
         
     def recommend(self , user_vector , top_k=3):
         """
-        user_vector: 1D numpy array or DataFrame row
+        user_vector: embedding
         """
         logger.info("Generating recommendations...")
         
         # Compute cosine similarity between user vector and all job vectors
         similarities = cosine_similarity(
-            user_vector.reshape(1, -1) ,  # Before: (n_features,) After:  (1, n_features) | Example:(9,)  →  (1, 9)
-            self.job_features.values      # → numpy.ndarray : shape: (n_jobs, n_features)
+            [user_vector] ,
+            self.job_embeddings     
         )[0]
         
         # Attach similarity scores to job metadata

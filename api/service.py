@@ -12,9 +12,8 @@ class RecommendationService:
     def __init__(self , jobs_df):
         self.gq_client = GroqClient()
         self.fb = FeatureBuilder()
-        self.fb.fit(jobs_df, jobs_df)  # Assuming users_df is not available at init
-        self.job_features = self.fb.transform_jobs(jobs_df)
-        self.recommender = BaseLineRecommender(self.job_features, jobs_df)
+        self.job_embeddings = self.fb.transform_jobs(jobs_df)
+        self.recommender = BaseLineRecommender(self.job_embeddings, jobs_df)
         
     def recommend(self , request : RecommendationRequest) :
         logger.info("Starting recommendation process...")
@@ -46,7 +45,7 @@ class RecommendationService:
             
         user_vector = self.fb.transform_users(
             pd.DataFrame([user_df])
-        ).iloc[0].values  # Get the first (and only) row as numpy array , we need 1D array
+        )[0]  # Get the first (and only) row as numpy array , we need 1D array
         
         return self.recommender.recommend(user_vector)
             
