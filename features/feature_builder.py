@@ -27,7 +27,10 @@ class FeatureBuilder :
         self.level_encoder.fit(experience_levels)
         
         # Fit domain encoder
-        domains = pd.concat([jobs_df["domain"], users_df['domain']])        
+        domains = pd.concat([jobs_df["domain"], users_df['domain']]).fillna("other")        
+        # Add "other" if not in the data
+        if "other" not in domains.values:
+            domains = pd.concat([domains, pd.Series(["other"])])
         self.domain_encoder.fit(domains)
         
     def transform_jobs(self , jobs_df):
@@ -58,6 +61,15 @@ class FeatureBuilder :
 
         return job_features
     
+    def safe_transform_level(self, level_series):
+        # If level is unknown, map to "beginner" (or lowest level)
+        known_levels = self.level_encoder.categories_[0].tolist()
+        return level_series.apply(lambda x: x if x in known_levels else "beginner")
+    
+    def safe_transform_domain(self, domain_series):
+        known_domains = self.domain_encoder.classes_.tolist()
+        return domain_series.apply(lambda x: x if x in known_domains else "other")
+    
     def transform_users(self , users_df) :
         users_df = users_df.copy()
         
@@ -66,13 +78,17 @@ class FeatureBuilder :
         skills_df = pd.DataFrame(skills , columns = self.skill_encoder.classes_ , index = users_df.index)
         
         # Level numeric :
+        users_df["level"] = self.safe_transform_level(users_df["level"])
         level = self.level_encoder.transform(users_df[["level"]]).flatten()
         users_df["level_num"] = level
         
         # mode numeric :
-        users_df["mode_num"] = users_df["mode"].map(self.mode_mapping)
+        users_df["mode"] = users_df["mode"].fillna("remote")  # fallback
+        users_df["mode_num"] = users_df["mode"].apply(lambda x: self.mode_mapping.get(str(x).lower(), 1))  # default remote
         
         # Domain numeric :
+        users_df["domain"] = users_df["domain"].fillna("other")  # fallback
+        users_df["domain"] = self.safe_transform_domain(users_df["domain"])
         domain = self.domain_encoder.transform(users_df["domain"])
         users_df["domain_num"] = domain  
         
