@@ -1,0 +1,251 @@
+user_id,skills,level,mode,domain
+0,"['deep learning', 'data analysis']",beginner,on-site,DevOps
+1,"['machine learning', 'fastapi']",beginner,remote,Web
+2,"['docker', 'git', 'sql', 'data analysis', 'fastapi']",beginner,hybrid,DevOps
+3,"['nlp', 'computer vision']",beginner,on-site,Web
+4,"['fastapi', 'computer vision', 'docker']",intermediate,hybrid,Data
+5,"['git', 'fastapi', 'deep learning', 'sql']",beginner,remote,AI
+6,"['sql', 'machine learning', 'git']",intermediate,on-site,DevOps
+7,"['data analysis', 'docker']",beginner,on-site,Data
+8,"['fastapi', 'sql', 'nlp', 'machine learning', 'linux']",advanced,on-site,AI
+9,"['docker', 'machine learning', 'sql']",advanced,remote,Data
+10,"['data analysis', 'python', 'fastapi', 'computer vision', 'linux']",beginner,remote,DevOps
+11,"['data analysis', 'computer vision', 'deep learning', 'sql', 'nlp']",beginner,remote,AI
+12,"['python', 'deep learning']",beginner,remote,DevOps
+13,"['computer vision', 'sql', 'fastapi', 'nlp']",beginner,remote,Web
+14,"['machine learning', 'sql', 'docker', 'nlp', 'python']",intermediate,remote,Web
+15,"['linux', 'git', 'python', 'computer vision', 'docker']",intermediate,remote,Data
+16,"['machine learning', 'fastapi', 'nlp']",intermediate,remote,AI
+17,"['computer vision', 'fastapi', 'git']",intermediate,hybrid,DevOps
+18,"['sql', 'fastapi']",intermediate,remote,DevOps
+19,"['computer vision', 'data analysis', 'deep learning']",advanced,hybrid,AI
+20,"['docker', 'git', 'data analysis', 'nlp', 'machine learning']",advanced,hybrid,Data
+21,"['fastapi', 'machine learning', 'python', 'docker', 'computer vision']",beginner,remote,Data
+22,"['git', 'data analysis']",intermediate,hybrid,Web
+23,"['sql', 'deep learning', 'nlp']",intermediate,hybrid,AI
+24,"['nlp', 'linux', 'docker']",beginner,remote,Web
+25,"['docker', 'nlp', 'python', 'computer vision']",advanced,hybrid,Web
+26,"['git', 'data analysis', 'fastapi']",beginner,on-site,AI
+27,"['python', 'deep learning']",advanced,remote,AI
+28,"['python', 'docker', 'deep learning', 'machine learning', 'git']",advanced,remote,Data
+29,"['python', 'machine learning']",advanced,hybrid,Web
+30,"['data analysis', 'docker']",beginner,on-site,DevOps
+31,"['docker', 'fastapi']",intermediate,remote,Web
+32,"['computer vision', 'git', 'docker', 'machine learning', 'data analysis']",advanced,hybrid,Data
+33,"['computer vision', 'nlp', 'machine learning']",intermediate,on-site,Data
+34,"['machine learning', 'python', 'linux']",advanced,remote,Web
+35,"['nlp', 'deep learning', 'sql', 'git']",beginner,on-site,AI
+36,"['docker', 'computer vision', 'machine learning']",advanced,remote,Data
+37,"['python', 'fastapi', 'deep learning', 'data analysis', 'docker']",beginner,on-site,Data
+38,"['python', 'computer vision']",intermediate,on-site,DevOps
+39,"['linux', 'git', 'computer vision']",intermediate,hybrid,DevOps
+40,"['git', 'nlp']",advanced,hybrid,Web
+41,"['git', 'sql', 'python']",intermediate,remote,Data
+42,"['sql', 'computer vision', 'docker', 'machine learning']",intermediate,remote,AI
+43,"['docker', 'nlp']",advanced,on-site,AI
+44,"['computer vision', 'machine learning', 'linux', 'nlp', 'python']",beginner,on-site,Web
+45,"['linux', 'data analysis', 'nlp']",intermediate,hybrid,Data
+46,"['deep learning', 'sql', 'python', 'linux']",advanced,hybrid,DevOps
+47,"['python', 'docker', 'computer vision']",intermediate,remote,Data
+48,"['deep learning', 'sql', 'python', 'computer vision', 'nlp']",advanced,on-site,AI
+49,"['sql', 'fastapi', 'linux', 'git', 'deep learning']",advanced,on-site,AI
+50,"['machine learning', 'docker', 'linux', 'nlp', 'sql']",intermediate,remote,Data
+51,"['git', 'fastapi', 'deep learning', 'nlp', 'computer vision']",beginner,remote,AI
+52,"['computer vision', 'docker']",advanced,on-site,Web
+53,"['linux', 'data analysis']",intermediate,hybrid,DevOps
+54,"['git', 'fastapi', 'sql']",intermediate,hybrid,AI
+55,"['sql', 'git', 'machine learning']",beginner,remote,Web
+56,"['python', 'linux', 'sql']",advanced,on-site,Web
+57,"['nlp', 'fastapi', 'docker']",advanced,remote,AI
+58,"['data analysis', 'linux', 'computer vision', 'docker', 'nlp']",intermediate,hybrid,DevOps
+59,"['nlp', 'computer vision']",advanced,on-site,AI
+60,"['machine learning', 'computer vision', 'sql', 'data analysis', 'fastapi']",beginner,on-site,Data
+61,"['fastapi', 'linux', 'git', 'data analysis', 'python']",beginner,on-site,DevOps
+62,"['nlp', 'computer vision', 'linux']",beginner,on-site,Data
+63,"['python', 'git', 'fastapi']",intermediate,remote,Data
+64,"['fastapi', 'computer vision', 'git', 'sql']",beginner,remote,Data
+65,"['docker', 'fastapi', 'linux', 'sql', 'git']",intermediate,remote,DevOps
+66,"['data analysis', 'docker', 'python', 'machine learning', 'computer vision']",intermediate,hybrid,DevOps
+67,"['data analysis', 'nlp', 'python']",beginner,remote,Web
+68,"['deep learning', 'python']",intermediate,remote,Data
+69,"['fastapi', 'docker', 'git']",advanced,on-site,AI
+70,"['deep learning', 'docker']",intermediate,hybrid,DevOps
+71,"['git', 'nlp', 'data analysis']",intermediate,on-site,Web
+72,"['sql', 'fastapi', 'python', 'linux']",beginner,remote,Web
+73,"['computer vision', 'deep learning', 'nlp']",intermediate,hybrid,DevOps
+74,"['computer vision', 'python']",intermediate,remote,Web
+75,"['deep learning', 'fastapi']",advanced,on-site,Data
+76,"['linux', 'docker', 'git', 'fastapi', 'sql']",intermediate,on-site,DevOps
+77,"['python', 'data analysis']",advanced,on-site,Data
+78,"['computer vision', 'sql', 'git', 'nlp']",intermediate,on-site,Data
+79,"['fastapi', 'computer vision', 'deep learning', 'machine learning']",advanced,remote,AI
+80,"['computer vision', 'docker', 'machine learning', 'python', 'nlp']",intermediate,on-site,Data
+81,"['linux', 'computer vision', 'python', 'deep learning', 'machine learning']",advanced,hybrid,Web
+82,"['computer vision', 'docker', 'data analysis', 'fastapi', 'linux']",beginner,hybrid,Web
+83,"['sql', 'git', 'machine learning', 'fastapi']",advanced,hybrid,Web
+84,"['computer vision', 'sql', 'deep learning', 'docker']",beginner,hybrid,Data
+85,"['docker', 'computer vision', 'fastapi', 'data analysis', 'deep learning']",beginner,on-site,AI
+86,"['git', 'deep learning']",advanced,remote,DevOps
+87,"['linux', 'python', 'machine learning', 'data analysis']",beginner,on-site,DevOps
+88,"['machine learning', 'docker', 'computer vision', 'sql', 'deep learning']",intermediate,hybrid,Web
+89,"['computer vision', 'python', 'nlp', 'git']",intermediate,remote,Web
+90,"['git', 'sql', 'machine learning']",advanced,on-site,DevOps
+91,"['linux', 'git', 'computer vision', 'python', 'nlp']",advanced,remote,Data
+92,"['docker', 'data analysis']",beginner,remote,AI
+93,"['deep learning', 'docker', 'fastapi']",beginner,remote,DevOps
+94,"['machine learning', 'sql', 'python', 'fastapi']",intermediate,on-site,Data
+95,"['computer vision', 'machine learning', 'docker', 'git', 'nlp']",beginner,remote,DevOps
+96,"['deep learning', 'computer vision']",advanced,remote,Web
+97,"['nlp', 'data analysis']",beginner,remote,Data
+98,"['linux', 'fastapi']",advanced,hybrid,AI
+99,"['computer vision', 'sql']",advanced,remote,AI
+100,"['linux', 'git']",intermediate,remote,Data
+101,"['machine learning', 'deep learning', 'python', 'fastapi', 'nlp']",advanced,remote,Data
+102,"['linux', 'sql', 'data analysis']",advanced,hybrid,AI
+103,"['sql', 'computer vision', 'git', 'deep learning']",advanced,remote,Data
+104,"['docker', 'linux', 'fastapi']",beginner,remote,DevOps
+105,"['git', 'docker', 'deep learning']",beginner,remote,AI
+106,"['nlp', 'git']",beginner,remote,AI
+107,"['fastapi', 'deep learning']",intermediate,on-site,Data
+108,"['python', 'sql', 'machine learning', 'computer vision', 'linux']",intermediate,on-site,Data
+109,"['sql', 'computer vision', 'python', 'data analysis', 'linux']",beginner,hybrid,Web
+110,"['docker', 'git', 'fastapi', 'sql']",intermediate,on-site,Web
+111,"['linux', 'computer vision']",intermediate,on-site,DevOps
+112,"['linux', 'machine learning', 'sql', 'nlp', 'docker']",advanced,remote,Web
+113,"['linux', 'nlp']",intermediate,hybrid,DevOps
+114,"['nlp', 'linux', 'docker']",advanced,remote,Web
+115,"['git', 'sql', 'linux', 'computer vision', 'python']",beginner,on-site,Data
+116,"['computer vision', 'data analysis']",advanced,hybrid,Web
+117,"['data analysis', 'computer vision', 'sql', 'linux']",advanced,hybrid,Web
+118,"['docker', 'linux', 'machine learning', 'python', 'git']",advanced,remote,DevOps
+119,"['machine learning', 'sql', 'git', 'docker', 'nlp']",intermediate,on-site,AI
+120,"['data analysis', 'linux', 'nlp']",beginner,remote,DevOps
+121,"['nlp', 'git', 'sql', 'computer vision', 'deep learning']",intermediate,remote,DevOps
+122,"['sql', 'linux']",intermediate,remote,AI
+123,"['nlp', 'computer vision']",advanced,on-site,Web
+124,"['docker', 'computer vision', 'python', 'deep learning', 'linux']",intermediate,on-site,DevOps
+125,"['git', 'sql', 'nlp', 'deep learning']",beginner,on-site,Data
+126,"['data analysis', 'computer vision', 'docker', 'sql']",beginner,remote,DevOps
+127,"['linux', 'sql', 'fastapi']",advanced,remote,Web
+128,"['linux', 'deep learning']",intermediate,remote,Data
+129,"['linux', 'python']",advanced,hybrid,AI
+130,"['git', 'nlp', 'data analysis', 'machine learning', 'deep learning']",beginner,hybrid,AI
+131,"['nlp', 'git', 'data analysis', 'machine learning', 'docker']",advanced,remote,Web
+132,"['linux', 'nlp']",advanced,on-site,DevOps
+133,"['nlp', 'deep learning', 'fastapi', 'linux', 'machine learning']",intermediate,on-site,Web
+134,"['linux', 'nlp', 'data analysis']",intermediate,hybrid,Data
+135,"['deep learning', 'computer vision', 'fastapi']",advanced,on-site,Web
+136,"['data analysis', 'computer vision', 'docker']",advanced,remote,Data
+137,"['nlp', 'computer vision', 'linux', 'fastapi', 'data analysis']",intermediate,remote,AI
+138,"['linux', 'machine learning']",beginner,hybrid,AI
+139,"['fastapi', 'machine learning', 'computer vision']",advanced,on-site,Web
+140,"['fastapi', 'deep learning']",advanced,remote,Data
+141,"['sql', 'nlp', 'data analysis', 'deep learning', 'docker']",advanced,hybrid,DevOps
+142,"['data analysis', 'fastapi', 'python']",intermediate,on-site,DevOps
+143,"['data analysis', 'python', 'nlp', 'fastapi']",beginner,hybrid,DevOps
+144,"['computer vision', 'docker', 'data analysis']",advanced,hybrid,Web
+145,"['fastapi', 'git', 'machine learning']",advanced,remote,Web
+146,"['data analysis', 'sql', 'linux']",beginner,on-site,Data
+147,"['machine learning', 'computer vision', 'fastapi', 'python']",intermediate,on-site,Web
+148,"['machine learning', 'docker']",advanced,remote,Data
+149,"['nlp', 'data analysis', 'docker', 'sql', 'linux']",advanced,on-site,Web
+150,"['data analysis', 'sql', 'computer vision']",beginner,on-site,DevOps
+151,"['docker', 'deep learning']",beginner,hybrid,Data
+152,"['docker', 'fastapi', 'deep learning', 'git']",advanced,hybrid,AI
+153,"['computer vision', 'docker']",intermediate,remote,Web
+154,"['computer vision', 'docker']",intermediate,remote,DevOps
+155,"['data analysis', 'fastapi', 'python', 'docker']",advanced,hybrid,DevOps
+156,"['python', 'fastapi', 'deep learning', 'docker', 'nlp']",beginner,remote,Web
+157,"['computer vision', 'sql']",beginner,hybrid,Web
+158,"['sql', 'deep learning', 'data analysis', 'linux', 'docker']",beginner,hybrid,Web
+159,"['git', 'docker']",beginner,remote,AI
+160,"['machine learning', 'fastapi']",advanced,remote,Web
+161,"['linux', 'computer vision', 'git', 'nlp']",intermediate,on-site,AI
+162,"['computer vision', 'sql', 'data analysis', 'python', 'docker']",advanced,hybrid,AI
+163,"['sql', 'docker']",advanced,remote,Data
+164,"['nlp', 'sql', 'fastapi', 'git']",intermediate,on-site,AI
+165,"['machine learning', 'data analysis', 'deep learning', 'computer vision', 'docker']",intermediate,hybrid,Data
+166,"['fastapi', 'docker', 'python']",advanced,hybrid,Web
+167,"['python', 'computer vision']",advanced,hybrid,DevOps
+168,"['fastapi', 'deep learning']",advanced,hybrid,Data
+169,"['linux', 'data analysis', 'machine learning']",beginner,remote,Web
+170,"['deep learning', 'sql', 'machine learning', 'python']",advanced,on-site,AI
+171,"['computer vision', 'sql', 'fastapi', 'nlp']",beginner,hybrid,DevOps
+172,"['docker', 'machine learning', 'deep learning', 'sql']",intermediate,hybrid,AI
+173,"['docker', 'git', 'nlp']",intermediate,hybrid,Data
+174,"['nlp', 'computer vision', 'docker']",intermediate,on-site,Web
+175,"['docker', 'deep learning']",beginner,hybrid,DevOps
+176,"['docker', 'machine learning', 'computer vision', 'git']",intermediate,on-site,Data
+177,"['git', 'data analysis', 'sql', 'machine learning']",advanced,hybrid,AI
+178,"['machine learning', 'data analysis', 'deep learning', 'fastapi']",advanced,hybrid,AI
+179,"['python', 'data analysis']",advanced,remote,DevOps
+180,"['python', 'data analysis', 'fastapi']",advanced,hybrid,DevOps
+181,"['docker', 'linux', 'deep learning']",advanced,hybrid,Data
+182,"['git', 'data analysis', 'nlp']",beginner,on-site,Data
+183,"['computer vision', 'deep learning']",advanced,hybrid,Web
+184,"['git', 'machine learning', 'nlp']",advanced,hybrid,Web
+185,"['docker', 'python', 'deep learning', 'git', 'sql']",beginner,on-site,Data
+186,"['python', 'deep learning', 'data analysis']",intermediate,on-site,DevOps
+187,"['python', 'computer vision', 'docker', 'sql', 'data analysis']",advanced,hybrid,Data
+188,"['nlp', 'data analysis', 'machine learning', 'linux']",advanced,on-site,Data
+189,"['data analysis', 'fastapi']",intermediate,remote,DevOps
+190,"['docker', 'git', 'nlp', 'python']",advanced,remote,DevOps
+191,"['deep learning', 'sql', 'data analysis']",advanced,on-site,Web
+192,"['machine learning', 'computer vision', 'docker']",advanced,hybrid,AI
+193,"['linux', 'docker', 'sql']",intermediate,hybrid,DevOps
+194,"['deep learning', 'nlp', 'machine learning', 'linux', 'python']",beginner,remote,Web
+195,"['machine learning', 'data analysis', 'python']",advanced,remote,AI
+196,"['fastapi', 'machine learning', 'data analysis']",intermediate,hybrid,AI
+197,"['sql', 'deep learning', 'git', 'data analysis']",intermediate,remote,Web
+198,"['nlp', 'machine learning', 'computer vision', 'fastapi', 'sql']",advanced,hybrid,Data
+199,"['nlp', 'computer vision', 'sql', 'deep learning', 'git']",intermediate,remote,AI
+200,"['deep learning', 'data analysis']",advanced,hybrid,DevOps
+201,"['nlp', 'sql', 'machine learning']",intermediate,hybrid,AI
+202,"['sql', 'git']",advanced,remote,AI
+203,"['data analysis', 'linux', 'docker', 'python', 'computer vision']",advanced,on-site,Web
+204,"['linux', 'docker', 'sql', 'computer vision', 'data analysis']",intermediate,on-site,Web
+205,"['fastapi', 'nlp']",advanced,on-site,Data
+206,"['python', 'computer vision', 'data analysis']",beginner,hybrid,AI
+207,"['computer vision', 'deep learning', 'docker', 'linux', 'machine learning']",beginner,remote,DevOps
+208,"['fastapi', 'data analysis', 'linux', 'docker']",advanced,on-site,DevOps
+209,"['linux', 'data analysis', 'nlp']",intermediate,remote,Data
+210,"['fastapi', 'computer vision', 'docker', 'linux', 'data analysis']",beginner,hybrid,AI
+211,"['git', 'machine learning', 'sql']",beginner,hybrid,DevOps
+212,"['data analysis', 'nlp', 'python', 'machine learning']",intermediate,hybrid,AI
+213,"['machine learning', 'git']",advanced,on-site,AI
+214,"['fastapi', 'deep learning']",intermediate,remote,AI
+215,"['linux', 'nlp', 'data analysis', 'fastapi', 'docker']",advanced,remote,Web
+216,"['git', 'python', 'deep learning', 'fastapi', 'sql']",beginner,hybrid,Web
+217,"['computer vision', 'python', 'docker']",beginner,hybrid,AI
+218,"['sql', 'fastapi', 'linux']",intermediate,hybrid,DevOps
+219,"['nlp', 'deep learning', 'data analysis', 'python', 'docker']",advanced,remote,AI
+220,"['data analysis', 'nlp', 'docker', 'computer vision']",intermediate,remote,Web
+221,"['linux', 'nlp', 'python', 'fastapi', 'sql']",intermediate,hybrid,AI
+222,"['data analysis', 'fastapi']",intermediate,remote,Data
+223,"['git', 'linux', 'computer vision', 'deep learning']",intermediate,on-site,DevOps
+224,"['git', 'sql']",intermediate,remote,DevOps
+225,"['computer vision', 'deep learning', 'docker']",intermediate,on-site,AI
+226,"['deep learning', 'fastapi', 'sql', 'linux']",advanced,hybrid,Data
+227,"['data analysis', 'machine learning']",intermediate,on-site,Data
+228,"['nlp', 'fastapi', 'machine learning']",advanced,hybrid,Web
+229,"['deep learning', 'computer vision', 'nlp', 'fastapi', 'sql']",beginner,remote,Web
+230,"['machine learning', 'sql', 'nlp', 'data analysis']",advanced,hybrid,DevOps
+231,"['data analysis', 'python']",intermediate,on-site,Data
+232,"['nlp', 'fastapi', 'git', 'machine learning', 'linux']",advanced,on-site,DevOps
+233,"['nlp', 'machine learning', 'python']",advanced,on-site,DevOps
+234,"['data analysis', 'docker']",intermediate,hybrid,Web
+235,"['sql', 'data analysis', 'git', 'docker', 'nlp']",beginner,remote,Web
+236,"['nlp', 'sql', 'docker', 'data analysis', 'fastapi']",intermediate,remote,Data
+237,"['fastapi', 'git', 'docker']",intermediate,remote,DevOps
+238,"['deep learning', 'linux', 'docker', 'data analysis', 'nlp']",intermediate,on-site,DevOps
+239,"['nlp', 'machine learning', 'deep learning']",beginner,hybrid,Data
+240,"['data analysis', 'linux', 'nlp']",beginner,remote,Web
+241,"['python', 'machine learning', 'linux', 'git', 'sql']",advanced,hybrid,Data
+242,"['fastapi', 'computer vision', 'data analysis', 'python', 'deep learning']",beginner,hybrid,Web
+243,"['deep learning', 'fastapi']",intermediate,hybrid,AI
+244,"['docker', 'fastapi', 'computer vision', 'data analysis', 'nlp']",advanced,on-site,Data
+245,"['linux', 'sql']",intermediate,hybrid,Web
+246,"['fastapi', 'docker', 'nlp']",advanced,hybrid,DevOps
+247,"['sql', 'linux', 'fastapi', 'git', 'docker']",beginner,remote,Data
+248,"['computer vision', 'nlp', 'linux', 'sql', 'python']",beginner,on-site,Web
+249,"['docker', 'fastapi', 'nlp', 'linux']",intermediate,on-site,Data

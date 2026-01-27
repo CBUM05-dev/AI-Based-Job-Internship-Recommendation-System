@@ -1,0 +1,401 @@
+job_id,title,skills,level,mode,domain
+0,Job_0,"['python', 'fastapi', 'deep learning']",beginner,remote,AI
+1,Job_1,"['nlp', 'linux', 'python']",beginner,remote,Web
+2,Job_2,"['data analysis', 'nlp', 'python', 'deep learning']",advanced,hybrid,DevOps
+3,Job_3,"['git', 'nlp', 'fastapi', 'python']",beginner,hybrid,DevOps
+4,Job_4,"['fastapi', 'machine learning', 'deep learning', 'docker', 'python']",beginner,on-site,AI
+5,Job_5,"['docker', 'nlp', 'fastapi', 'python', 'computer vision']",intermediate,hybrid,AI
+6,Job_6,"['sql', 'data analysis', 'fastapi', 'docker', 'nlp', 'computer vision']",advanced,remote,AI
+7,Job_7,"['fastapi', 'sql', 'deep learning', 'nlp']",intermediate,on-site,DevOps
+8,Job_8,"['machine learning', 'docker', 'nlp', 'deep learning', 'data analysis']",intermediate,hybrid,AI
+9,Job_9,"['data analysis', 'deep learning', 'machine learning', 'git']",intermediate,on-site,Web
+10,Job_10,"['python', 'deep learning', 'computer vision', 'docker', 'nlp']",intermediate,remote,Web
+11,Job_11,"['deep learning', 'git', 'linux', 'nlp', 'sql']",intermediate,remote,Web
+12,Job_12,"['nlp', 'linux', 'computer vision', 'docker', 'sql']",beginner,hybrid,DevOps
+13,Job_13,"['python', 'sql', 'machine learning']",advanced,remote,DevOps
+14,Job_14,"['linux', 'computer vision', 'git']",advanced,on-site,AI
+15,Job_15,"['computer vision', 'data analysis', 'fastapi']",advanced,on-site,AI
+16,Job_16,"['linux', 'machine learning', 'git', 'python', 'docker']",advanced,on-site,Web
+17,Job_17,"['computer vision', 'fastapi', 'data analysis']",advanced,remote,Web
+18,Job_18,"['machine learning', 'data analysis', 'nlp', 'python', 'fastapi']",intermediate,on-site,AI
+19,Job_19,"['docker', 'fastapi', 'deep learning']",beginner,remote,AI
+20,Job_20,"['git', 'sql', 'data analysis']",beginner,remote,DevOps
+21,Job_21,"['fastapi', 'data analysis', 'linux', 'deep learning']",advanced,hybrid,Web
+22,Job_22,"['linux', 'docker', 'git', 'data analysis', 'python']",beginner,remote,AI
+23,Job_23,"['python', 'nlp', 'data analysis', 'deep learning', 'fastapi']",beginner,remote,AI
+24,Job_24,"['deep learning', 'sql', 'python']",intermediate,remote,Web
+25,Job_25,"['computer vision', 'git', 'deep learning', 'machine learning', 'docker']",advanced,hybrid,DevOps
+26,Job_26,"['git', 'linux', 'deep learning', 'sql']",beginner,hybrid,DevOps
+27,Job_27,"['linux', 'computer vision', 'git', 'python', 'docker']",advanced,hybrid,AI
+28,Job_28,"['linux', 'docker', 'sql']",beginner,remote,Web
+29,Job_29,"['machine learning', 'linux', 'computer vision', 'fastapi', 'deep learning', 'sql']",beginner,on-site,AI
+30,Job_30,"['computer vision', 'data analysis', 'python']",beginner,remote,Web
+31,Job_31,"['git', 'computer vision', 'deep learning', 'linux', 'python', 'sql']",intermediate,remote,DevOps
+32,Job_32,"['git', 'fastapi', 'linux', 'computer vision', 'sql']",beginner,on-site,Web
+33,Job_33,"['nlp', 'data analysis', 'python']",advanced,on-site,AI
+34,Job_34,"['nlp', 'git', 'data analysis']",advanced,remote,AI
+35,Job_35,"['machine learning', 'sql', 'nlp']",advanced,remote,DevOps
+36,Job_36,"['nlp', 'deep learning', 'python']",advanced,remote,DevOps
+37,Job_37,"['fastapi', 'deep learning', 'docker', 'nlp', 'machine learning']",intermediate,remote,Data
+38,Job_38,"['docker', 'sql', 'python', 'git', 'fastapi', 'linux']",beginner,remote,Web
+39,Job_39,"['machine learning', 'docker', 'sql', 'deep learning', 'computer vision']",intermediate,remote,DevOps
+40,Job_40,"['nlp', 'data analysis', 'python', 'fastapi', 'docker']",beginner,remote,Data
+41,Job_41,"['sql', 'data analysis', 'machine learning']",intermediate,on-site,Web
+42,Job_42,"['deep learning', 'fastapi', 'data analysis', 'git', 'machine learning']",beginner,remote,DevOps
+43,Job_43,"['python', 'computer vision', 'docker', 'machine learning', 'data analysis']",intermediate,remote,DevOps
+44,Job_44,"['data analysis', 'python', 'sql', 'computer vision', 'docker', 'git']",advanced,remote,Data
+45,Job_45,"['linux', 'machine learning', 'python', 'fastapi']",intermediate,remote,Data
+46,Job_46,"['computer vision', 'deep learning', 'sql', 'docker']",advanced,on-site,Web
+47,Job_47,"['machine learning', 'computer vision', 'linux', 'python']",beginner,hybrid,Data
+48,Job_48,"['computer vision', 'deep learning', 'fastapi', 'machine learning', 'linux', 'docker']",beginner,on-site,AI
+49,Job_49,"['deep learning', 'computer vision', 'git', 'docker', 'machine learning', 'sql']",beginner,remote,Web
+50,Job_50,"['docker', 'fastapi', 'sql', 'nlp', 'machine learning', 'computer vision']",advanced,on-site,Data
+51,Job_51,"['sql', 'fastapi', 'machine learning']",advanced,on-site,AI
+52,Job_52,"['nlp', 'linux', 'docker']",advanced,on-site,DevOps
+53,Job_53,"['linux', 'nlp', 'deep learning']",intermediate,remote,DevOps
+54,Job_54,"['data analysis', 'computer vision', 'deep learning']",intermediate,on-site,AI
+55,Job_55,"['nlp', 'docker', 'sql', 'fastapi', 'git']",intermediate,hybrid,DevOps
+56,Job_56,"['linux', 'fastapi', 'data analysis', 'machine learning', 'sql']",intermediate,hybrid,DevOps
+57,Job_57,"['nlp', 'computer vision', 'fastapi', 'linux']",advanced,remote,Data
+58,Job_58,"['deep learning', 'linux', 'docker', 'git', 'computer vision']",intermediate,hybrid,Web
+59,Job_59,"['machine learning', 'sql', 'fastapi', 'docker', 'python', 'nlp']",advanced,on-site,Web
+60,Job_60,"['machine learning', 'python', 'nlp', 'deep learning']",intermediate,hybrid,AI
+61,Job_61,"['linux', 'nlp', 'deep learning', 'computer vision', 'data analysis', 'git']",beginner,remote,AI
+62,Job_62,"['linux', 'deep learning', 'machine learning']",advanced,hybrid,DevOps
+63,Job_63,"['data analysis', 'deep learning', 'sql']",intermediate,remote,DevOps
+64,Job_64,"['git', 'nlp', 'data analysis', 'linux', 'computer vision']",advanced,on-site,Web
+65,Job_65,"['git', 'fastapi', 'deep learning', 'nlp', 'linux', 'computer vision']",intermediate,hybrid,Web
+66,Job_66,"['git', 'sql', 'fastapi', 'deep learning', 'machine learning']",intermediate,on-site,AI
+67,Job_67,"['machine learning', 'deep learning', 'linux', 'computer vision']",advanced,remote,AI
+68,Job_68,"['linux', 'docker', 'data analysis', 'git', 'deep learning', 'python']",beginner,on-site,DevOps
+69,Job_69,"['nlp', 'linux', 'git']",beginner,on-site,Data
+70,Job_70,"['linux', 'data analysis', 'nlp', 'deep learning', 'git', 'sql']",intermediate,on-site,DevOps
+71,Job_71,"['linux', 'docker', 'computer vision']",advanced,remote,DevOps
+72,Job_72,"['nlp', 'data analysis', 'python', 'linux']",advanced,hybrid,AI
+73,Job_73,"['computer vision', 'linux', 'machine learning']",intermediate,remote,AI
+74,Job_74,"['linux', 'docker', 'deep learning', 'git', 'machine learning']",intermediate,on-site,Data
+75,Job_75,"['fastapi', 'sql', 'git', 'python', 'docker', 'computer vision']",beginner,on-site,Web
+76,Job_76,"['computer vision', 'python', 'nlp']",beginner,remote,AI
+77,Job_77,"['deep learning', 'machine learning', 'git', 'sql']",advanced,remote,DevOps
+78,Job_78,"['docker', 'machine learning', 'sql', 'nlp', 'git']",beginner,hybrid,AI
+79,Job_79,"['nlp', 'linux', 'computer vision', 'deep learning', 'python']",advanced,hybrid,Web
+80,Job_80,"['fastapi', 'nlp', 'sql']",advanced,remote,Data
+81,Job_81,"['computer vision', 'docker', 'sql', 'nlp', 'python', 'deep learning']",intermediate,remote,DevOps
+82,Job_82,"['computer vision', 'git', 'machine learning', 'linux', 'sql']",advanced,hybrid,Data
+83,Job_83,"['git', 'linux', 'fastapi', 'docker', 'nlp', 'sql']",beginner,on-site,DevOps
+84,Job_84,"['git', 'nlp', 'linux', 'docker']",beginner,on-site,Data
+85,Job_85,"['git', 'deep learning', 'docker', 'fastapi']",intermediate,on-site,Data
+86,Job_86,"['data analysis', 'deep learning', 'sql']",beginner,hybrid,DevOps
+87,Job_87,"['data analysis', 'deep learning', 'git', 'computer vision', 'nlp', 'python']",beginner,on-site,Web
+88,Job_88,"['deep learning', 'fastapi', 'docker', 'git', 'nlp', 'linux']",intermediate,on-site,Data
+89,Job_89,"['git', 'fastapi', 'nlp', 'data analysis', 'sql']",beginner,hybrid,Web
+90,Job_90,"['sql', 'data analysis', 'machine learning', 'deep learning', 'computer vision']",advanced,on-site,Data
+91,Job_91,"['sql', 'deep learning', 'fastapi', 'nlp', 'machine learning']",beginner,on-site,AI
+92,Job_92,"['fastapi', 'python', 'nlp', 'computer vision']",advanced,remote,DevOps
+93,Job_93,"['python', 'nlp', 'fastapi']",intermediate,on-site,DevOps
+94,Job_94,"['machine learning', 'python', 'fastapi', 'git', 'nlp']",beginner,on-site,DevOps
+95,Job_95,"['nlp', 'python', 'machine learning']",beginner,hybrid,Data
+96,Job_96,"['deep learning', 'sql', 'data analysis']",intermediate,hybrid,Web
+97,Job_97,"['git', 'computer vision', 'fastapi', 'linux', 'machine learning', 'data analysis']",advanced,remote,AI
+98,Job_98,"['computer vision', 'deep learning', 'fastapi', 'sql']",beginner,remote,Web
+99,Job_99,"['machine learning', 'python', 'linux']",intermediate,hybrid,DevOps
+100,Job_100,"['python', 'deep learning', 'fastapi', 'data analysis', 'docker']",intermediate,remote,Web
+101,Job_101,"['computer vision', 'nlp', 'deep learning', 'linux', 'python']",advanced,remote,Web
+102,Job_102,"['machine learning', 'sql', 'python', 'computer vision', 'linux']",intermediate,hybrid,Data
+103,Job_103,"['sql', 'git', 'fastapi', 'linux', 'machine learning', 'data analysis']",advanced,on-site,DevOps
+104,Job_104,"['nlp', 'python', 'linux']",advanced,on-site,Data
+105,Job_105,"['sql', 'deep learning', 'python']",advanced,on-site,AI
+106,Job_106,"['git', 'data analysis', 'computer vision', 'fastapi']",beginner,hybrid,DevOps
+107,Job_107,"['sql', 'git', 'docker', 'linux', 'machine learning', 'nlp']",advanced,remote,Web
+108,Job_108,"['linux', 'git', 'fastapi', 'computer vision', 'nlp']",advanced,remote,DevOps
+109,Job_109,"['docker', 'fastapi', 'computer vision']",beginner,on-site,AI
+110,Job_110,"['linux', 'python', 'deep learning', 'docker', 'fastapi', 'data analysis']",advanced,on-site,AI
+111,Job_111,"['fastapi', 'data analysis', 'machine learning', 'computer vision']",intermediate,hybrid,DevOps
+112,Job_112,"['python', 'nlp', 'deep learning']",advanced,remote,Data
+113,Job_113,"['data analysis', 'linux', 'sql']",beginner,remote,DevOps
+114,Job_114,"['computer vision', 'machine learning', 'git']",advanced,on-site,Data
+115,Job_115,"['git', 'computer vision', 'deep learning', 'nlp', 'fastapi', 'sql']",intermediate,remote,Web
+116,Job_116,"['fastapi', 'linux', 'docker']",advanced,on-site,AI
+117,Job_117,"['fastapi', 'nlp', 'git', 'machine learning', 'deep learning']",advanced,on-site,Data
+118,Job_118,"['data analysis', 'computer vision', 'linux', 'git', 'machine learning']",beginner,hybrid,Web
+119,Job_119,"['deep learning', 'linux', 'python', 'docker', 'git', 'computer vision']",advanced,on-site,DevOps
+120,Job_120,"['git', 'python', 'machine learning', 'docker']",beginner,on-site,AI
+121,Job_121,"['python', 'machine learning', 'linux', 'nlp', 'computer vision', 'deep learning']",intermediate,on-site,DevOps
+122,Job_122,"['docker', 'data analysis', 'linux']",intermediate,hybrid,DevOps
+123,Job_123,"['nlp', 'sql', 'deep learning']",advanced,hybrid,Data
+124,Job_124,"['sql', 'linux', 'computer vision', 'data analysis']",intermediate,remote,Data
+125,Job_125,"['python', 'docker', 'computer vision']",intermediate,on-site,Data
+126,Job_126,"['machine learning', 'deep learning', 'data analysis', 'linux', 'fastapi', 'docker']",beginner,remote,Web
+127,Job_127,"['nlp', 'linux', 'deep learning']",intermediate,hybrid,Web
+128,Job_128,"['git', 'fastapi', 'computer vision', 'nlp']",advanced,remote,DevOps
+129,Job_129,"['computer vision', 'data analysis', 'machine learning', 'sql', 'deep learning']",intermediate,hybrid,Data
+130,Job_130,"['fastapi', 'git', 'computer vision', 'deep learning', 'nlp', 'linux']",beginner,remote,DevOps
+131,Job_131,"['nlp', 'fastapi', 'computer vision', 'python', 'linux']",advanced,on-site,Data
+132,Job_132,"['nlp', 'python', 'git']",intermediate,remote,Data
+133,Job_133,"['computer vision', 'deep learning', 'fastapi', 'machine learning']",advanced,remote,AI
+134,Job_134,"['git', 'python', 'docker', 'machine learning', 'nlp']",intermediate,on-site,DevOps
+135,Job_135,"['deep learning', 'machine learning', 'data analysis', 'docker']",advanced,hybrid,Data
+136,Job_136,"['fastapi', 'git', 'computer vision', 'docker']",beginner,on-site,AI
+137,Job_137,"['deep learning', 'linux', 'data analysis', 'docker']",beginner,on-site,AI
+138,Job_138,"['data analysis', 'sql', 'git', 'docker', 'computer vision']",advanced,hybrid,Data
+139,Job_139,"['computer vision', 'docker', 'sql', 'deep learning', 'git', 'python']",advanced,hybrid,Data
+140,Job_140,"['computer vision', 'sql', 'git', 'fastapi']",advanced,on-site,AI
+141,Job_141,"['python', 'computer vision', 'fastapi', 'git']",beginner,remote,Web
+142,Job_142,"['linux', 'git', 'docker', 'computer vision']",advanced,hybrid,Web
+143,Job_143,"['computer vision', 'sql', 'git', 'linux', 'machine learning', 'python']",advanced,on-site,Web
+144,Job_144,"['git', 'deep learning', 'docker', 'sql', 'data analysis', 'machine learning']",advanced,hybrid,Data
+145,Job_145,"['linux', 'fastapi', 'deep learning']",beginner,on-site,AI
+146,Job_146,"['computer vision', 'nlp', 'python', 'data analysis']",intermediate,remote,Web
+147,Job_147,"['sql', 'data analysis', 'deep learning', 'nlp']",beginner,on-site,Web
+148,Job_148,"['fastapi', 'machine learning', 'nlp']",advanced,on-site,Web
+149,Job_149,"['computer vision', 'python', 'machine learning']",beginner,on-site,Web
+150,Job_150,"['python', 'machine learning', 'fastapi', 'computer vision', 'sql']",advanced,on-site,AI
+151,Job_151,"['git', 'computer vision', 'docker']",advanced,hybrid,AI
+152,Job_152,"['data analysis', 'deep learning', 'python', 'fastapi', 'nlp', 'docker']",beginner,remote,DevOps
+153,Job_153,"['linux', 'sql', 'git', 'data analysis', 'python', 'computer vision']",intermediate,hybrid,Web
+154,Job_154,"['machine learning', 'fastapi', 'data analysis']",advanced,on-site,DevOps
+155,Job_155,"['git', 'data analysis', 'linux', 'sql', 'nlp']",advanced,remote,Web
+156,Job_156,"['git', 'deep learning', 'linux', 'docker', 'data analysis', 'nlp']",intermediate,on-site,AI
+157,Job_157,"['linux', 'docker', 'fastapi', 'nlp', 'sql']",advanced,on-site,AI
+158,Job_158,"['sql', 'computer vision', 'linux']",beginner,hybrid,Data
+159,Job_159,"['data analysis', 'python', 'computer vision', 'docker']",advanced,remote,DevOps
+160,Job_160,"['computer vision', 'linux', 'python', 'fastapi', 'git']",intermediate,on-site,AI
+161,Job_161,"['machine learning', 'git', 'deep learning', 'sql']",intermediate,hybrid,Data
+162,Job_162,"['fastapi', 'nlp', 'deep learning']",intermediate,hybrid,AI
+163,Job_163,"['python', 'machine learning', 'fastapi', 'data analysis', 'nlp']",intermediate,remote,Web
+164,Job_164,"['nlp', 'linux', 'sql', 'machine learning']",advanced,hybrid,AI
+165,Job_165,"['data analysis', 'deep learning', 'linux']",intermediate,on-site,Data
+166,Job_166,"['docker', 'fastapi', 'computer vision', 'sql']",beginner,remote,Web
+167,Job_167,"['computer vision', 'sql', 'fastapi']",intermediate,hybrid,DevOps
+168,Job_168,"['nlp', 'git', 'linux', 'fastapi', 'sql', 'computer vision']",beginner,on-site,DevOps
+169,Job_169,"['fastapi', 'nlp', 'git']",advanced,hybrid,Data
+170,Job_170,"['deep learning', 'linux', 'python']",beginner,remote,Data
+171,Job_171,"['machine learning', 'fastapi', 'nlp', 'docker']",beginner,remote,DevOps
+172,Job_172,"['machine learning', 'computer vision', 'linux', 'deep learning', 'fastapi', 'data analysis']",advanced,on-site,AI
+173,Job_173,"['python', 'linux', 'computer vision', 'git', 'data analysis', 'machine learning']",advanced,on-site,DevOps
+174,Job_174,"['fastapi', 'sql', 'linux', 'python', 'machine learning', 'nlp']",advanced,on-site,Data
+175,Job_175,"['linux', 'sql', 'deep learning']",intermediate,hybrid,DevOps
+176,Job_176,"['linux', 'fastapi', 'docker']",beginner,on-site,Web
+177,Job_177,"['data analysis', 'sql', 'computer vision']",advanced,remote,Data
+178,Job_178,"['computer vision', 'machine learning', 'deep learning', 'sql', 'git']",intermediate,remote,Web
+179,Job_179,"['computer vision', 'sql', 'machine learning', 'git']",intermediate,hybrid,DevOps
+180,Job_180,"['computer vision', 'docker', 'machine learning', 'git', 'python']",intermediate,on-site,Data
+181,Job_181,"['nlp', 'python', 'docker', 'sql', 'machine learning']",intermediate,on-site,AI
+182,Job_182,"['docker', 'fastapi', 'sql']",advanced,remote,DevOps
+183,Job_183,"['nlp', 'data analysis', 'python', 'git', 'linux', 'fastapi']",advanced,remote,Data
+184,Job_184,"['data analysis', 'machine learning', 'python', 'git', 'computer vision', 'nlp']",advanced,remote,Web
+185,Job_185,"['deep learning', 'git', 'nlp']",advanced,hybrid,Web
+186,Job_186,"['docker', 'fastapi', 'linux', 'data analysis', 'git']",intermediate,hybrid,AI
+187,Job_187,"['sql', 'docker', 'computer vision', 'linux', 'machine learning']",intermediate,hybrid,Web
+188,Job_188,"['sql', 'nlp', 'machine learning', 'docker', 'data analysis']",advanced,hybrid,DevOps
+189,Job_189,"['nlp', 'sql', 'fastapi', 'linux']",advanced,on-site,Web
+190,Job_190,"['computer vision', 'linux', 'data analysis']",intermediate,remote,Data
+191,Job_191,"['machine learning', 'deep learning', 'docker', 'git', 'sql']",beginner,remote,Web
+192,Job_192,"['fastapi', 'sql', 'data analysis']",advanced,hybrid,AI
+193,Job_193,"['nlp', 'machine learning', 'linux', 'computer vision', 'sql']",beginner,hybrid,Web
+194,Job_194,"['python', 'linux', 'docker', 'deep learning', 'git', 'fastapi']",intermediate,hybrid,DevOps
+195,Job_195,"['data analysis', 'deep learning', 'fastapi', 'git']",beginner,on-site,DevOps
+196,Job_196,"['fastapi', 'linux', 'data analysis', 'nlp', 'sql', 'git']",advanced,remote,Data
+197,Job_197,"['computer vision', 'git', 'docker']",advanced,remote,AI
+198,Job_198,"['sql', 'machine learning', 'fastapi', 'git', 'data analysis']",beginner,on-site,AI
+199,Job_199,"['git', 'docker', 'python', 'linux']",beginner,on-site,Data
+200,Job_200,"['linux', 'sql', 'docker', 'deep learning']",beginner,on-site,AI
+201,Job_201,"['machine learning', 'computer vision', 'python', 'fastapi', 'linux']",intermediate,hybrid,Web
+202,Job_202,"['git', 'nlp', 'python', 'sql', 'data analysis', 'machine learning']",beginner,remote,DevOps
+203,Job_203,"['fastapi', 'deep learning', 'computer vision']",beginner,remote,Web
+204,Job_204,"['computer vision', 'nlp', 'git', 'sql', 'python', 'deep learning']",advanced,hybrid,AI
+205,Job_205,"['machine learning', 'fastapi', 'linux', 'python']",advanced,on-site,Web
+206,Job_206,"['machine learning', 'sql', 'data analysis', 'docker', 'python', 'fastapi']",advanced,hybrid,AI
+207,Job_207,"['git', 'python', 'linux', 'docker', 'machine learning', 'computer vision']",beginner,on-site,AI
+208,Job_208,"['deep learning', 'sql', 'docker', 'machine learning', 'python']",intermediate,hybrid,Data
+209,Job_209,"['computer vision', 'git', 'nlp', 'machine learning']",beginner,remote,DevOps
+210,Job_210,"['fastapi', 'deep learning', 'python']",beginner,remote,Data
+211,Job_211,"['data analysis', 'linux', 'computer vision', 'git', 'machine learning']",beginner,hybrid,Web
+212,Job_212,"['docker', 'python', 'computer vision', 'fastapi', 'nlp']",intermediate,on-site,DevOps
+213,Job_213,"['linux', 'docker', 'machine learning', 'git', 'nlp', 'deep learning']",intermediate,hybrid,Data
+214,Job_214,"['linux', 'sql', 'computer vision']",advanced,remote,Data
+215,Job_215,"['sql', 'computer vision', 'docker', 'fastapi', 'machine learning']",intermediate,hybrid,DevOps
+216,Job_216,"['git', 'docker', 'computer vision', 'python']",advanced,on-site,DevOps
+217,Job_217,"['computer vision', 'python', 'sql', 'linux', 'machine learning']",advanced,hybrid,Web
+218,Job_218,"['machine learning', 'nlp', 'git']",beginner,remote,AI
+219,Job_219,"['computer vision', 'docker', 'nlp', 'linux']",advanced,remote,Web
+220,Job_220,"['docker', 'computer vision', 'git', 'sql', 'fastapi', 'data analysis']",advanced,on-site,DevOps
+221,Job_221,"['computer vision', 'fastapi', 'deep learning', 'sql', 'python']",advanced,remote,DevOps
+222,Job_222,"['data analysis', 'sql', 'fastapi', 'computer vision', 'docker', 'deep learning']",beginner,hybrid,Data
+223,Job_223,"['deep learning', 'sql', 'machine learning', 'nlp', 'computer vision', 'git']",advanced,on-site,AI
+224,Job_224,"['computer vision', 'docker', 'sql', 'fastapi', 'machine learning']",beginner,hybrid,Web
+225,Job_225,"['data analysis', 'deep learning', 'sql', 'nlp', 'linux']",beginner,remote,DevOps
+226,Job_226,"['docker', 'data analysis', 'computer vision']",intermediate,hybrid,Web
+227,Job_227,"['sql', 'fastapi', 'linux']",advanced,hybrid,DevOps
+228,Job_228,"['linux', 'nlp', 'sql', 'machine learning', 'git', 'docker']",beginner,on-site,DevOps
+229,Job_229,"['machine learning', 'data analysis', 'computer vision', 'nlp', 'deep learning']",advanced,remote,AI
+230,Job_230,"['fastapi', 'machine learning', 'nlp', 'docker']",advanced,remote,Data
+231,Job_231,"['sql', 'fastapi', 'deep learning', 'nlp', 'computer vision']",advanced,on-site,AI
+232,Job_232,"['nlp', 'computer vision', 'machine learning', 'data analysis']",advanced,hybrid,Data
+233,Job_233,"['python', 'sql', 'computer vision']",advanced,hybrid,Data
+234,Job_234,"['nlp', 'linux', 'python', 'git']",advanced,hybrid,Data
+235,Job_235,"['git', 'deep learning', 'linux', 'fastapi', 'nlp']",beginner,hybrid,AI
+236,Job_236,"['git', 'linux', 'computer vision', 'data analysis']",beginner,on-site,Web
+237,Job_237,"['docker', 'computer vision', 'linux', 'machine learning', 'data analysis']",intermediate,hybrid,AI
+238,Job_238,"['deep learning', 'git', 'sql', 'fastapi', 'computer vision']",beginner,remote,AI
+239,Job_239,"['fastapi', 'linux', 'nlp']",beginner,remote,Data
+240,Job_240,"['deep learning', 'machine learning', 'git', 'data analysis', 'computer vision']",intermediate,on-site,AI
+241,Job_241,"['linux', 'data analysis', 'git']",beginner,remote,Data
+242,Job_242,"['python', 'fastapi', 'git']",advanced,hybrid,DevOps
+243,Job_243,"['data analysis', 'python', 'sql', 'linux', 'computer vision']",intermediate,hybrid,Data
+244,Job_244,"['docker', 'python', 'linux', 'nlp', 'fastapi', 'data analysis']",beginner,on-site,Data
+245,Job_245,"['linux', 'data analysis', 'git']",advanced,on-site,AI
+246,Job_246,"['sql', 'linux', 'docker', 'data analysis']",advanced,on-site,Web
+247,Job_247,"['nlp', 'data analysis', 'linux', 'python']",beginner,remote,Web
+248,Job_248,"['git', 'data analysis', 'computer vision', 'machine learning', 'fastapi']",advanced,remote,Data
+249,Job_249,"['machine learning', 'linux', 'fastapi', 'docker', 'data analysis']",advanced,hybrid,DevOps
+250,Job_250,"['git', 'python', 'docker', 'data analysis', 'computer vision']",beginner,on-site,Data
+251,Job_251,"['nlp', 'git', 'fastapi']",advanced,hybrid,Web
+252,Job_252,"['nlp', 'git', 'machine learning']",advanced,hybrid,DevOps
+253,Job_253,"['computer vision', 'deep learning', 'python', 'sql']",beginner,remote,DevOps
+254,Job_254,"['linux', 'machine learning', 'computer vision', 'deep learning', 'git']",advanced,hybrid,DevOps
+255,Job_255,"['machine learning', 'data analysis', 'deep learning']",advanced,on-site,DevOps
+256,Job_256,"['docker', 'machine learning', 'git', 'computer vision', 'fastapi', 'nlp']",advanced,hybrid,Data
+257,Job_257,"['deep learning', 'computer vision', 'fastapi', 'data analysis', 'sql', 'machine learning']",intermediate,hybrid,Web
+258,Job_258,"['docker', 'git', 'computer vision', 'fastapi', 'machine learning', 'python']",advanced,hybrid,DevOps
+259,Job_259,"['docker', 'machine learning', 'fastapi', 'python', 'nlp', 'computer vision']",beginner,on-site,DevOps
+260,Job_260,"['git', 'deep learning', 'nlp', 'fastapi', 'computer vision']",advanced,on-site,Web
+261,Job_261,"['nlp', 'computer vision', 'deep learning']",beginner,remote,Web
+262,Job_262,"['python', 'sql', 'linux', 'docker']",advanced,on-site,AI
+263,Job_263,"['python', 'data analysis', 'machine learning', 'linux']",advanced,on-site,DevOps
+264,Job_264,"['fastapi', 'docker', 'computer vision', 'python']",beginner,hybrid,Web
+265,Job_265,"['machine learning', 'linux', 'computer vision']",beginner,on-site,DevOps
+266,Job_266,"['fastapi', 'python', 'nlp', 'computer vision']",advanced,hybrid,AI
+267,Job_267,"['fastapi', 'git', 'data analysis', 'nlp', 'sql']",advanced,on-site,Data
+268,Job_268,"['sql', 'docker', 'machine learning', 'git']",advanced,on-site,Web
+269,Job_269,"['docker', 'fastapi', 'deep learning']",beginner,hybrid,DevOps
+270,Job_270,"['data analysis', 'docker', 'sql', 'linux', 'nlp', 'python']",beginner,remote,DevOps
+271,Job_271,"['deep learning', 'python', 'fastapi', 'linux', 'sql']",intermediate,on-site,Data
+272,Job_272,"['nlp', 'computer vision', 'python', 'fastapi', 'docker']",intermediate,hybrid,Web
+273,Job_273,"['computer vision', 'sql', 'git']",intermediate,remote,DevOps
+274,Job_274,"['sql', 'fastapi', 'docker', 'deep learning', 'computer vision']",beginner,on-site,Web
+275,Job_275,"['nlp', 'docker', 'linux', 'git', 'data analysis', 'fastapi']",advanced,remote,Web
+276,Job_276,"['data analysis', 'git', 'computer vision']",advanced,on-site,AI
+277,Job_277,"['python', 'data analysis', 'nlp']",beginner,hybrid,Web
+278,Job_278,"['docker', 'data analysis', 'git', 'sql']",advanced,remote,DevOps
+279,Job_279,"['data analysis', 'git', 'python']",intermediate,remote,DevOps
+280,Job_280,"['nlp', 'python', 'data analysis', 'git', 'docker', 'machine learning']",advanced,remote,DevOps
+281,Job_281,"['python', 'deep learning', 'sql', 'computer vision', 'nlp']",intermediate,hybrid,AI
+282,Job_282,"['sql', 'git', 'python']",intermediate,on-site,Web
+283,Job_283,"['computer vision', 'linux', 'docker', 'nlp']",intermediate,on-site,DevOps
+284,Job_284,"['computer vision', 'data analysis', 'machine learning']",advanced,on-site,AI
+285,Job_285,"['data analysis', 'linux', 'computer vision', 'machine learning']",advanced,remote,AI
+286,Job_286,"['fastapi', 'git', 'data analysis']",intermediate,hybrid,DevOps
+287,Job_287,"['deep learning', 'git', 'docker', 'machine learning']",intermediate,remote,AI
+288,Job_288,"['computer vision', 'linux', 'python']",beginner,remote,AI
+289,Job_289,"['nlp', 'python', 'git']",advanced,hybrid,AI
+290,Job_290,"['python', 'linux', 'git', 'deep learning']",advanced,remote,AI
+291,Job_291,"['data analysis', 'fastapi', 'deep learning', 'docker']",advanced,hybrid,Data
+292,Job_292,"['fastapi', 'machine learning', 'data analysis', 'deep learning']",intermediate,on-site,Data
+293,Job_293,"['data analysis', 'nlp', 'machine learning']",advanced,hybrid,DevOps
+294,Job_294,"['python', 'docker', 'linux', 'nlp', 'git', 'deep learning']",intermediate,remote,Data
+295,Job_295,"['machine learning', 'data analysis', 'git', 'deep learning', 'linux', 'sql']",intermediate,hybrid,Web
+296,Job_296,"['python', 'data analysis', 'linux', 'nlp', 'fastapi', 'git']",beginner,on-site,Web
+297,Job_297,"['deep learning', 'docker', 'sql', 'git', 'linux']",intermediate,remote,Web
+298,Job_298,"['fastapi', 'linux', 'python']",beginner,remote,Web
+299,Job_299,"['deep learning', 'docker', 'fastapi', 'python', 'sql', 'linux']",advanced,remote,DevOps
+300,Job_300,"['nlp', 'deep learning', 'linux', 'computer vision']",advanced,on-site,Data
+301,Job_301,"['git', 'data analysis', 'docker', 'fastapi', 'machine learning', 'linux']",advanced,on-site,DevOps
+302,Job_302,"['git', 'docker', 'deep learning']",intermediate,on-site,DevOps
+303,Job_303,"['nlp', 'deep learning', 'machine learning']",beginner,on-site,DevOps
+304,Job_304,"['machine learning', 'deep learning', 'docker', 'nlp', 'git']",advanced,remote,DevOps
+305,Job_305,"['fastapi', 'git', 'nlp', 'data analysis', 'sql']",advanced,on-site,Web
+306,Job_306,"['data analysis', 'git', 'machine learning', 'python']",advanced,remote,AI
+307,Job_307,"['python', 'linux', 'machine learning']",advanced,remote,AI
+308,Job_308,"['python', 'deep learning', 'data analysis', 'git']",intermediate,remote,DevOps
+309,Job_309,"['python', 'computer vision', 'data analysis', 'linux', 'nlp', 'git']",advanced,hybrid,Data
+310,Job_310,"['python', 'data analysis', 'linux', 'machine learning', 'computer vision']",beginner,hybrid,Web
+311,Job_311,"['deep learning', 'nlp', 'data analysis', 'fastapi']",intermediate,on-site,DevOps
+312,Job_312,"['docker', 'linux', 'git']",advanced,remote,Web
+313,Job_313,"['computer vision', 'sql', 'python', 'nlp', 'deep learning']",intermediate,on-site,DevOps
+314,Job_314,"['computer vision', 'python', 'machine learning']",beginner,on-site,DevOps
+315,Job_315,"['nlp', 'sql', 'data analysis', 'python', 'computer vision']",beginner,hybrid,DevOps
+316,Job_316,"['python', 'sql', 'fastapi', 'computer vision', 'nlp']",intermediate,remote,Web
+317,Job_317,"['linux', 'sql', 'fastapi', 'machine learning']",advanced,remote,DevOps
+318,Job_318,"['linux', 'machine learning', 'sql', 'docker', 'python']",beginner,on-site,Web
+319,Job_319,"['docker', 'nlp', 'linux']",intermediate,remote,Data
+320,Job_320,"['git', 'deep learning', 'docker', 'linux', 'nlp', 'sql']",advanced,hybrid,DevOps
+321,Job_321,"['nlp', 'fastapi', 'deep learning']",advanced,remote,AI
+322,Job_322,"['machine learning', 'linux', 'computer vision', 'nlp', 'data analysis']",intermediate,remote,AI
+323,Job_323,"['fastapi', 'git', 'docker']",intermediate,remote,Web
+324,Job_324,"['machine learning', 'linux', 'git']",advanced,hybrid,DevOps
+325,Job_325,"['python', 'sql', 'docker']",advanced,remote,Data
+326,Job_326,"['python', 'fastapi', 'linux', 'data analysis', 'git', 'computer vision']",advanced,hybrid,Web
+327,Job_327,"['computer vision', 'linux', 'machine learning', 'data analysis']",intermediate,on-site,Data
+328,Job_328,"['machine learning', 'sql', 'computer vision', 'linux', 'data analysis', 'deep learning']",intermediate,on-site,AI
+329,Job_329,"['fastapi', 'deep learning', 'git', 'nlp', 'data analysis']",beginner,remote,Data
+330,Job_330,"['linux', 'docker', 'computer vision']",intermediate,on-site,Data
+331,Job_331,"['computer vision', 'nlp', 'machine learning', 'fastapi', 'data analysis', 'git']",advanced,remote,DevOps
+332,Job_332,"['machine learning', 'linux', 'docker', 'fastapi', 'data analysis']",advanced,hybrid,DevOps
+333,Job_333,"['docker', 'linux', 'fastapi', 'nlp']",intermediate,remote,Web
+334,Job_334,"['computer vision', 'data analysis', 'python', 'git']",advanced,remote,DevOps
+335,Job_335,"['sql', 'linux', 'git', 'machine learning', 'docker']",intermediate,remote,Data
+336,Job_336,"['linux', 'computer vision', 'sql', 'git']",advanced,on-site,DevOps
+337,Job_337,"['data analysis', 'python', 'docker', 'sql', 'nlp', 'git']",advanced,hybrid,Data
+338,Job_338,"['computer vision', 'nlp', 'python', 'linux']",intermediate,on-site,AI
+339,Job_339,"['sql', 'fastapi', 'deep learning']",advanced,hybrid,Web
+340,Job_340,"['docker', 'linux', 'git', 'machine learning', 'data analysis', 'python']",intermediate,remote,Data
+341,Job_341,"['sql', 'computer vision', 'machine learning', 'docker', 'data analysis', 'linux']",intermediate,remote,DevOps
+342,Job_342,"['git', 'sql', 'computer vision', 'data analysis', 'machine learning']",beginner,on-site,AI
+343,Job_343,"['python', 'docker', 'sql']",advanced,remote,Web
+344,Job_344,"['data analysis', 'machine learning', 'docker', 'linux']",intermediate,remote,DevOps
+345,Job_345,"['machine learning', 'linux', 'nlp', 'python']",advanced,hybrid,Web
+346,Job_346,"['nlp', 'linux', 'computer vision', 'python', 'docker', 'sql']",beginner,on-site,AI
+347,Job_347,"['data analysis', 'machine learning', 'docker']",intermediate,remote,DevOps
+348,Job_348,"['fastapi', 'git', 'data analysis']",advanced,on-site,DevOps
+349,Job_349,"['nlp', 'sql', 'docker', 'data analysis', 'linux', 'deep learning']",advanced,remote,Data
+350,Job_350,"['computer vision', 'machine learning', 'docker']",beginner,remote,Data
+351,Job_351,"['machine learning', 'docker', 'computer vision']",advanced,on-site,DevOps
+352,Job_352,"['nlp', 'linux', 'computer vision', 'machine learning']",intermediate,hybrid,Web
+353,Job_353,"['git', 'fastapi', 'machine learning', 'data analysis']",intermediate,on-site,AI
+354,Job_354,"['python', 'git', 'machine learning', 'deep learning', 'linux']",intermediate,hybrid,DevOps
+355,Job_355,"['computer vision', 'git', 'linux', 'nlp', 'deep learning', 'sql']",beginner,hybrid,AI
+356,Job_356,"['fastapi', 'python', 'computer vision', 'deep learning']",advanced,on-site,Web
+357,Job_357,"['nlp', 'git', 'data analysis', 'sql', 'fastapi', 'python']",intermediate,hybrid,Data
+358,Job_358,"['git', 'data analysis', 'deep learning']",intermediate,remote,Web
+359,Job_359,"['python', 'git', 'fastapi', 'docker', 'linux']",beginner,on-site,AI
+360,Job_360,"['deep learning', 'nlp', 'docker', 'linux']",beginner,hybrid,Web
+361,Job_361,"['deep learning', 'python', 'docker', 'fastapi']",advanced,hybrid,Web
+362,Job_362,"['fastapi', 'computer vision', 'nlp', 'sql', 'git']",intermediate,remote,Data
+363,Job_363,"['machine learning', 'deep learning', 'computer vision', 'docker']",beginner,hybrid,DevOps
+364,Job_364,"['machine learning', 'nlp', 'fastapi', 'linux', 'deep learning', 'git']",beginner,hybrid,AI
+365,Job_365,"['data analysis', 'fastapi', 'docker', 'git', 'deep learning', 'machine learning']",advanced,remote,AI
+366,Job_366,"['computer vision', 'docker', 'sql', 'linux', 'data analysis', 'deep learning']",beginner,on-site,Data
+367,Job_367,"['fastapi', 'docker', 'data analysis', 'machine learning', 'computer vision']",intermediate,on-site,AI
+368,Job_368,"['sql', 'git', 'python']",beginner,remote,DevOps
+369,Job_369,"['python', 'linux', 'deep learning', 'machine learning', 'docker', 'git']",beginner,on-site,AI
+370,Job_370,"['fastapi', 'sql', 'docker', 'machine learning', 'python']",intermediate,hybrid,Data
+371,Job_371,"['linux', 'sql', 'nlp', 'python']",beginner,on-site,AI
+372,Job_372,"['nlp', 'deep learning', 'data analysis', 'git']",beginner,remote,Data
+373,Job_373,"['linux', 'machine learning', 'git']",beginner,remote,DevOps
+374,Job_374,"['sql', 'computer vision', 'docker']",intermediate,on-site,Web
+375,Job_375,"['machine learning', 'computer vision', 'sql', 'python', 'fastapi', 'docker']",beginner,on-site,Data
+376,Job_376,"['computer vision', 'machine learning', 'linux', 'git']",beginner,remote,AI
+377,Job_377,"['sql', 'nlp', 'linux', 'docker']",intermediate,on-site,Web
+378,Job_378,"['fastapi', 'sql', 'deep learning', 'computer vision']",advanced,remote,Data
+379,Job_379,"['data analysis', 'nlp', 'computer vision', 'deep learning']",advanced,on-site,Data
+380,Job_380,"['deep learning', 'git', 'linux']",beginner,remote,DevOps
+381,Job_381,"['data analysis', 'python', 'docker']",intermediate,remote,DevOps
+382,Job_382,"['docker', 'data analysis', 'machine learning', 'git', 'linux', 'python']",beginner,hybrid,AI
+383,Job_383,"['fastapi', 'deep learning', 'python']",beginner,on-site,Data
+384,Job_384,"['linux', 'computer vision', 'sql', 'machine learning', 'git', 'python']",intermediate,remote,Web
+385,Job_385,"['data analysis', 'docker', 'linux', 'sql']",intermediate,hybrid,DevOps
+386,Job_386,"['python', 'deep learning', 'sql', 'linux']",beginner,on-site,AI
+387,Job_387,"['computer vision', 'machine learning', 'sql', 'python', 'docker']",beginner,hybrid,AI
+388,Job_388,"['git', 'docker', 'data analysis', 'fastapi']",beginner,on-site,Web
+389,Job_389,"['sql', 'python', 'docker', 'linux', 'machine learning']",advanced,remote,Data
+390,Job_390,"['git', 'computer vision', 'data analysis']",intermediate,remote,DevOps
+391,Job_391,"['docker', 'machine learning', 'fastapi', 'sql']",advanced,hybrid,AI
+392,Job_392,"['data analysis', 'python', 'nlp', 'computer vision']",beginner,remote,DevOps
+393,Job_393,"['linux', 'machine learning', 'nlp', 'python', 'fastapi']",advanced,hybrid,DevOps
+394,Job_394,"['docker', 'deep learning', 'linux', 'computer vision']",intermediate,remote,Data
+395,Job_395,"['data analysis', 'python', 'machine learning']",beginner,hybrid,AI
+396,Job_396,"['sql', 'git', 'fastapi', 'data analysis', 'machine learning', 'python']",advanced,on-site,AI
+397,Job_397,"['deep learning', 'fastapi', 'nlp', 'computer vision', 'git']",intermediate,hybrid,DevOps
+398,Job_398,"['data analysis', 'deep learning', 'machine learning', 'python']",intermediate,remote,Web
+399,Job_399,"['computer vision', 'python', 'docker', 'nlp', 'linux']",advanced,on-site,Data
