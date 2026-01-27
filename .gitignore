@@ -1,0 +1,38 @@
+ai_job
+project_files_creation.py
+
+# --- Fichiers compilés / Cache ---
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# --- Environnements Virtuels ---
+venv/
+env/
+.env/
+VirtualEnv/
+
+# --- Configuration et Secrets (TRÈS IMPORTANT) ---
+.env
+*.local
+secrets.json
+
+# --- Distribution / Paquetages ---
+dist/
+build/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# --- Logs et Bases de données ---
+*.log
+db.sqlite3
+*.db
+
+# --- Outils de développement (IDE) ---
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
