@@ -38,7 +38,11 @@ class FeatureBuilder :
         Level: {job.get('level' , '')}
         Mode: {job.get('mode', '')}
         Domain: {job.get('domain' , '')}
+        Description: {job.get('description', '')}
         """.strip()    
+        
+    def extract_structured_features(self, df:pd.DataFrame):
+        return df[["level", "mode","domain"]].copy()
         
     # ------------------------
     # Embedding methods
