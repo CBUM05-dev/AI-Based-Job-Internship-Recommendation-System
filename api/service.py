@@ -5,6 +5,8 @@ from utils.logger import get_logger
 import json
 import pandas as pd
 from schemas.request import RecommendationRequest
+from llm.parse_utils import safe_parse_llm_output
+from parsing.cv_extractor import extract_text_from_pdf
 
 logger = get_logger("RecommendationService")
 
@@ -21,10 +23,11 @@ class RecommendationService:
         # If user used natural language query
         if request.query :
             logger.info("Natural language query detected. Parsing...")
-            parsed =  self.gq_client.parse_user_query(request.query)
+            raw_output =  self.gq_client.parse_user_query(request.query)
             # Convert parsed JSON string to dictionary
-            logger.info(f"Parsed user query: {parsed}")
-            parsed = json.loads(parsed)
+            logger.info(f"Parsed raw user query: {raw_output}")
+            
+            parsed = safe_parse_llm_output(raw_output)
             logger.info(f"Parsed user query to JSON: {parsed}")
             
             user_df = {
@@ -48,6 +51,34 @@ class RecommendationService:
         )[0]  # Get the first (and only) row as numpy array , we need 1D array
         
         return self.recommender.recommend(user_vector)
+    # returns a Sortd and get top_k recommendations from the jobs_df
+    
+    
+    # CV-based recommend
+
+    def recommend_from_cv(self, pdf_file):
+
+        text = extract_text_from_pdf(pdf_file)
+
+        raw = self.gq_client.parse_user_query(text)
+        parsed = safe_parse_llm_output(raw)
+        logger.info(f"Parsed CV profile: {parsed}")
+
+        logger.info(f"Parsed CV profile: {parsed}")
+
+        return self.recommend(
+            RecommendationRequest(**parsed)
+        )
+    
+    
+    
+    
             
     
-        
+    
+    
+        """
+✅ Add a safe parser + fallback :
+Right now, your LLM returns raw text JSON.
+You should never trust LLM output blindly.
+        """
