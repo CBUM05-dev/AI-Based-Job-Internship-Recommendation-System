@@ -1,6 +1,4 @@
 import pandas as pd
-from features.feature_builder import FeatureBuilder
-from models.baseline_recommender import BaseLineRecommender
 from llm.groq_client import GroqClient
 from schemas.request import RecommendationRequest
 from utils.logger import get_logger
