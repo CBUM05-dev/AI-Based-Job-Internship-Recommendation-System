@@ -3,10 +3,18 @@ services:
     name: job-recommender-api
     env: python
     plan: free
-
     buildCommand: "pip install -r requirements.txt"
     startCommand: "uvicorn main:app --host 0.0.0.0 --port 10000"
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.10
 
+  - type: web
+    name: job-recommender-ui
+    env: python
+    plan: free
+    buildCommand: "pip install -r requirements.txt"
+    startCommand: "streamlit run UI_streamlit/ui.py --server.port 8501 --server.address 0.0.0.0"
     envVars:
       - key: PYTHON_VERSION
         value: 3.10
