@@ -3,7 +3,7 @@
 import streamlit as st
 import requests
 
-API_URL = "http://127.0.0.1:8000"
+API_URL = "https://job-recommender-api.onrender.com"
 
 st.title("AI Job Recommender")
 
